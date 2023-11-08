@@ -1,4 +1,6 @@
 *.h5
 *.csv
 *.png
-dummy_output_dir/*
+dummy_output_dir/
+__pycache__/
+dataset/
